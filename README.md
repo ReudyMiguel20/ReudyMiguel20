@@ -5,3 +5,5 @@
 🔭"Knowledge is the bridge that connects dreams to reality."
 
 📫 How to reach me: ReudyMiguel20@gmail.com
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ReudyMiguel20&show_icons=true)
